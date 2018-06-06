@@ -43,7 +43,7 @@ dat <- dat %>%
   mutate(stim1 = tolower(stim1))
 
 # load sac fit
-sac_fit <- read.csv('output/exp2_model_fit.csv')
+sac_fit <- read.csv('output/exp2_sac_model_fit.csv')
 names(sac_fit)[grepl('type', names(sac_fit))] <- gsub('_type_','',names(sac_fit)[grepl('type', names(sac_fit))])
 sac_fit <- select(sac_fit,subject, list, stim1, cued_recall_acc_pred, free_recall_acc_pred)
 sac_fit$list <- gsub('context','', sac_fit$list) %>% toupper()

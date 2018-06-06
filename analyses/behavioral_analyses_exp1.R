@@ -33,7 +33,7 @@ dat <- raw %>%
   select(-cue_prioritem)
 
 # load sac model fit
-sac_fit <- read.csv('output/exp1_model_fit.csv')
+sac_fit <- read.csv('output/exp1_sac_model_fit.csv')
 names(sac_fit)[grepl('type', names(sac_fit))] <- gsub('_type_','',names(sac_fit)[grepl('type', names(sac_fit))])
 sac_fit <- select(sac_fit, subject, stim1, trial, cued_recall_acc_pred, free_recall_acc_pred)
 sac_fit$trial <- sac_fit$trial-48
@@ -41,7 +41,7 @@ sac_fit$trial <- sac_fit$trial-48
 dat <- left_join(dat, sac_fit)
 
 # save processed data
-write.csv(dat, 'data/exp1_preprocessed.csv', row.names=FALSE)
+# write.csv(dat, 'data/exp1_processed.csv', row.names=FALSE)
 dat <- filter(dat, !is.na(cue_prioritem1))
 
 # -------------------------------------------------------------------

@@ -1,4 +1,5 @@
 "subject","item","cue","cued_recall_acc","free_recall_acc","trial","cue_prioritem1","cue_prioritem2","cue_prioritem3","cue_prioritem4","cue_consec_value","cue_consec_lab","stim1","cued_recall_acc_pred","free_recall_acc_pred"
+1,"Spiegel - Fenster","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1,"Wasser - Brief","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 1,"Beziehung - Wunsch","TBF",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 1,"Rahmen - Abend","TBF",0,0,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.307218091,0.17972582
@@ -22,6 +23,7 @@
 1,"Tochter - Dienst","TBR",0,0,22,"TBR","TBF","TBF","TBF",0.5,"TBR1","word022",0.413303508,0.293363538
 1,"Zukunft - Hilfe","TBR",0,0,23,"TBR","TBR","TBF","TBF",1.5,"TBR2","word023",0.358976229,0.232778484
 1,"Recht - Frage","TBR",0,0,24,"TBR","TBR","TBR","TBF",2.5,"TBR3","word024",0.28750544,0.160849836
+2,"Spiegel - Fenster","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2,"Zukunft - Hilfe","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 2,"Kirche - Zimmer","TBF",1,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 2,"Gegner - Musik","TBF",0,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -45,6 +47,7 @@
 2,"Gesicht - Verwaltung","TBF",1,0.5,22,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word022",0.276334444,0.150500457
 2,"Stimme - Tätigkeit","TBR",0,0,23,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word023",0.498676407,0.397021332
 2,"Seele - Presse","TBF",1,1,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.157749728,0.058069713
+3,"Arzt - Klasse","TBR",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 3,"Liebe - Sprache","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 3,"Himmel - Kraft","TBR",1,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 3,"Kosten - Jahr","TBF",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -68,6 +71,7 @@
 3,"Zeichen - Sache","TBF",0,0,22,"TBR","TBF","TBR","TBF",0.5,"TBR1","word022",0.158556427,0.058579424
 3,"Beziehung - Wunsch","TBF",0,0,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.275782255,0.14999556
 3,"Recht - Frage","TBR",0,0,24,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word024",0.498034746,0.396209411
+4,"Gegner - Musik","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4,"Tochter - Dienst","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 4,"Zeichen - Sache","TBR",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 4,"Seele - Presse","TBF",0,0,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -91,6 +95,7 @@
 4,"Recht - Frage","TBF",0,0,22,"TBR","TBR","TBR","TBR",2.5,"TBR3","word022",0.051195149,0.008293981
 4,"Zukunft - Hilfe","TBF",0,0,23,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word023",0.270979412,0.145630948
 4,"Gesicht - Verwaltung","TBF",0,0.5,24,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word024",0.275239674,0.149500069
+5,"Spiegel - Fenster","TBF",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5,"Haus - System","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 5,"Partei - Herz","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 5,"Soldat - Bericht","TBR",1,1,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -114,6 +119,7 @@
 5,"Höhe - Kapital","TBF",0,0,22,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word022",0.276340583,0.150506073
 5,"Recht - Frage","TBR",1,1,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.498678121,0.397023501
 5,"Himmel - Kraft","TBR",0,0,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.412027331,0.291888035
+6,"Kosten - Jahr","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6,"Gesicht - Verwaltung","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 6,"Beziehung - Wunsch","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 6,"Zeit - Ventil","TBR",1,1,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -137,6 +143,7 @@
 6,"Wasser - Brief","TBR",1,1,22,"TBR","TBR","TBF","TBF",1.5,"TBR2","word022",0.359591198,0.233437489
 6,"Recht - Frage","TBF",0,0,23,"TBR","TBR","TBR","TBF",2.5,"TBR3","word023",0.051017708,0.008244017
 6,"Soldat - Bericht","TBF",0,0,24,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word024",0.274560527,0.148880729
+7,"Seele - Presse","TBR",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7,"Soldat - Bericht","TBR",1,0.5,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 7,"Spiegel - Fenster","TBF",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.308678804,0.181154907
 7,"Stimme - Tätigkeit","TBF",0,0,4,"TBF","TBR","TBR",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -160,6 +167,7 @@
 7,"Rahmen - Abend","TBF",1,0,22,"TBR","TBF","TBR","TBF",0.5,"TBR1","word022",0.158557953,0.05858039
 7,"Haus - System","TBR",0,0,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.498683752,0.397030629
 7,"Wasser - Brief","TBF",0,0,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.157771035,0.058083153
+8,"Spiegel - Fenster","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 8,"Zukunft - Hilfe","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 8,"Zeit - Ventil","TBR",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 8,"Staat - Regierung","TBF",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -183,6 +191,7 @@
 8,"Höhe - Kapital","TBR",0,0.5,22,"TBR","TBF","TBF","TBF",0.5,"TBR1","word022",0.413302431,0.293362291
 8,"Wasser - Brief","TBR",0,0,23,"TBR","TBR","TBF","TBF",1.5,"TBR2","word023",0.358976694,0.232778983
 8,"Himmel - Kraft","TBF",0,0,24,"TBR","TBR","TBR","TBF",2.5,"TBR3","word024",0.050846581,0.008195953
+9,"Partei - Herz","TBF",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 9,"Tochter - Dienst","TBR",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 9,"Truppe - Uhr","TBF",1,0.5,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 9,"Arzt - Klasse","TBR",0,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -206,6 +215,7 @@
 9,"Seele - Presse","TBR",1,0,22,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word022",0.499344503,0.397867173
 9,"Himmel - Kraft","TBR",0,0,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412649894,0.292607537
 9,"Gegner - Musik","TBR",1,0,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.358376473,0.232136403
+10,"Liebe - Sprache","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10,"Stimme - Tätigkeit","TBR",0,0.5,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 10,"Kosten - Jahr","TBR",1,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 10,"Gegner - Musik","TBF",0,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.307218091,0.17972582
@@ -229,6 +239,7 @@
 10,"Wasser - Brief","TBR",1,1,22,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word022",0.49935547,0.397881062
 10,"Recht - Frage","TBF",1,1,23,"TBR","TBF","TBR","TBF",0.5,"TBR1","word023",0.158158396,0.058327705
 10,"Himmel - Kraft","TBF",1,0,24,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word024",0.275241008,0.149501286
+11,"Soldat - Bericht","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 11,"Kosten - Jahr","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 11,"Höhe - Kapital","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 11,"Beziehung - Wunsch","TBF",0,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -252,6 +263,7 @@
 11,"Tochter - Dienst","TBR",0,0,22,"TBR","TBF","TBR","TBR",0.5,"TBR1","word022",0.413323079,0.293386184
 11,"Stimme - Tätigkeit","TBF",0,0,23,"TBR","TBR","TBF","TBR",1.5,"TBR2","word023",0.102972868,0.027871672
 11,"Arzt - Klasse","TBR",1,1,24,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word024",0.498028983,0.39620212
+12,"Haus - System","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 12,"Liebe - Sprache","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 12,"Arzt - Klasse","TBF",1,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 12,"Stimme - Tätigkeit","TBR",0,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -275,6 +287,7 @@
 12,"Rahmen - Abend","TBR",0,0,22,"TBR","TBR","TBR","TBF",2.5,"TBR3","word022",0.288640287,0.161915486
 12,"Zeichen - Sache","TBR",0,0,23,"TBR","TBR","TBR","TBR",2.5,"TBR3","word023",0.288063092,0.16137316
 12,"Tochter - Dienst","TBF",0,0,24,"TBR","TBR","TBR","TBR",2.5,"TBR3","word024",0.050846581,0.008195953
+13,"Rahmen - Abend","TBF",0,0.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 13,"Liebe - Sprache","TBF",0,0.5,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 13,"Partei - Herz","TBF",1,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 13,"Beziehung - Wunsch","TBF",1,1,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.307218091,0.17972582
@@ -298,6 +311,7 @@
 13,"Gesicht - Verwaltung","TBR",0,0,22,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word022",0.499352496,0.397877296
 13,"Staat - Regierung","TBR",0,0,23,"TBR","TBF","TBR","TBF",0.5,"TBR1","word023",0.412668075,0.292628558
 13,"Zukunft - Hilfe","TBR",0,0,24,"TBR","TBR","TBF","TBR",1.5,"TBR2","word024",0.358399875,0.232161445
+14,"Kirche - Zimmer","TBF",0,0.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 14,"Gegner - Musik","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 14,"Tochter - Dienst","TBF",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 14,"Gesicht - Verwaltung","TBF",0,0,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.307218091,0.17972582
@@ -321,6 +335,7 @@
 14,"Zeichen - Sache","TBR",0,0,22,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word022",0.499352191,0.397876909
 14,"Staat - Regierung","TBF",0,0,23,"TBR","TBF","TBF","TBR",0.5,"TBR1","word023",0.158142443,0.058317625
 14,"Partei - Herz","TBR",1,1,24,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word024",0.498031389,0.396205163
+15,"Kirche - Zimmer","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 15,"Spiegel - Fenster","TBF",1,1,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 15,"Stimme - Tätigkeit","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 15,"Liebe - Sprache","TBF",1,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -344,6 +359,7 @@
 15,"Haus - System","TBR",1,1,22,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word022",0.499349272,0.397873212
 15,"Staat - Regierung","TBR",1,0,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412657214,0.292616001
 15,"Höhe - Kapital","TBF",0,0,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.102673802,0.027731997
+16,"Zukunft - Hilfe","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16,"Rahmen - Abend","TBR",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 16,"Zeichen - Sache","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 16,"Himmel - Kraft","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -367,6 +383,7 @@
 16,"Seele - Presse","TBF",0,0,22,"TBR","TBF","TBF","TBF",0.5,"TBR1","word022",0.158534864,0.058565776
 16,"Stimme - Tätigkeit","TBR",1,1,23,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word023",0.49868064,0.39702669
 16,"Gegner - Musik","TBF",0,0,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.157764944,0.058079311
+17,"Recht - Frage","TBR",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 17,"Zukunft - Hilfe","TBR",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 17,"Soldat - Bericht","TBR",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 17,"Gegner - Musik","TBR",1,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.527060801,0.433361416
@@ -390,6 +407,7 @@
 17,"Haus - System","TBR",0,0,22,"TBR","TBF","TBF","TBR",0.5,"TBR1","word022",0.413316987,0.293379134
 17,"Stimme - Tätigkeit","TBF",0,0,23,"TBR","TBR","TBF","TBF",1.5,"TBR2","word023",0.10296491,0.027867951
 17,"Kirche - Zimmer","TBR",0,0.5,24,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word024",0.498028759,0.396201837
+18,"Zeit - Ventil","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 18,"Zukunft - Hilfe","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 18,"Liebe - Sprache","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 18,"Höhe - Kapital","TBR",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -413,6 +431,7 @@
 18,"Rahmen - Abend","TBR",0,0,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.499354862,0.397880292
 18,"Seele - Presse","TBF",0,0.5,23,"TBR","TBF","TBF","TBR",0.5,"TBR1","word023",0.15814776,0.058320984
 18,"Kosten - Jahr","TBR",0,0,24,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word024",0.498032555,0.396206639
+19,"Himmel - Kraft","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 19,"Zeit - Ventil","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 19,"Rahmen - Abend","TBF",1,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 19,"Tochter - Dienst","TBR",1,1,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.527060801,0.433361416
@@ -436,6 +455,7 @@
 19,"Höhe - Kapital","TBF",0,0,22,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word022",0.275660398,0.149884226
 19,"Arzt - Klasse","TBR",1,1,23,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word023",0.498685009,0.39703222
 19,"Haus - System","TBR",1,1,24,"TBR","TBF","TBF","TBR",0.5,"TBR1","word024",0.41203739,0.291899655
+20,"Zeit - Ventil","TBR",0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 20,"Haus - System","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 20,"Wasser - Brief","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 20,"Zeichen - Sache","TBR",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -459,6 +479,7 @@
 20,"Staat - Regierung","TBF",1,0,22,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word022",0.276342443,0.150507775
 20,"Beziehung - Wunsch","TBR",1,1,23,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word023",0.498683613,0.397030453
 20,"Recht - Frage","TBF",0,0,24,"TBR","TBF","TBF","TBR",0.5,"TBR1","word024",0.157761465,0.058077116
+21,"Kirche - Zimmer","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 21,"Wasser - Brief","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 21,"Seele - Presse","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 21,"Beziehung - Wunsch","TBF",1,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -482,6 +503,7 @@
 21,"Partei - Herz","TBF",0,0,22,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word022",0.276344781,0.150509914
 21,"Stimme - Tätigkeit","TBF",0,0,23,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word023",0.275784368,0.149997492
 21,"Liebe - Sprache","TBF",1,1,24,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word024",0.275236297,0.149496987
+22,"Partei - Herz","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 22,"Liebe - Sprache","TBR",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 22,"Rahmen - Abend","TBR",1,1,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 22,"Stimme - Tätigkeit","TBR",1,1,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.527060801,0.433361416
@@ -505,6 +527,7 @@
 22,"Tochter - Dienst","TBF",1,1,22,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word022",0.276339606,0.150505179
 22,"Spiegel - Fenster","TBR",1,1,23,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word023",0.498682506,0.397029051
 22,"Recht - Frage","TBF",0,0,24,"TBR","TBF","TBF","TBR",0.5,"TBR1","word024",0.157759607,0.058075944
+23,"Wasser - Brief","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 23,"Himmel - Kraft","TBR",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 23,"Spiegel - Fenster","TBF",1,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 23,"Zeit - Ventil","TBF",0,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -528,6 +551,7 @@
 23,"Stimme - Tätigkeit","TBF",0,0,22,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word022",0.27634185,0.150507233
 23,"Truppe - Uhr","TBF",0,0,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.275774977,0.14998891
 23,"Partei - Herz","TBF",1,0,24,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word024",0.275230568,0.149491758
+24,"Kosten - Jahr","TBR",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 24,"Höhe - Kapital","TBR",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 24,"Kirche - Zimmer","TBF",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.308678804,0.181154907
 24,"Arzt - Klasse","TBF",0,0,4,"TBF","TBR","TBR",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -551,6 +575,7 @@
 24,"Seele - Presse","TBF",0,0,22,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word022",0.276329798,0.150496205
 24,"Truppe - Uhr","TBR",0,0,23,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word023",0.498674734,0.397019214
 24,"Spiegel - Fenster","TBR",0,0,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.412022896,0.291882912
+25,"Wasser - Brief","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 25,"Kirche - Zimmer","TBR",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 25,"Staat - Regierung","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 25,"Spiegel - Fenster","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -574,6 +599,7 @@
 25,"Höhe - Kapital","TBF",0,0,22,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word022",0.276341756,0.150507147
 25,"Zukunft - Hilfe","TBR",0,0,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.49867872,0.39702426
 25,"Truppe - Uhr","TBF",0,0,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.157753297,0.058071964
+26,"Kirche - Zimmer","TBF",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 26,"Zukunft - Hilfe","TBF",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 26,"Beziehung - Wunsch","TBR",1,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 26,"Liebe - Sprache","TBR",1,0,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -597,6 +623,7 @@
 26,"Tochter - Dienst","TBF",0,0,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.27634076,0.150506235
 26,"Recht - Frage","TBF",0,0.5,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.275774775,0.149988725
 26,"Staat - Regierung","TBF",1,1,24,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word024",0.275230468,0.149491667
+27,"Stimme - Tätigkeit","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 27,"Seele - Presse","TBR",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 27,"Kirche - Zimmer","TBR",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 27,"Liebe - Sprache","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -620,6 +647,7 @@
 27,"Wasser - Brief","TBF",0,0,22,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word022",0.276334221,0.150500252
 27,"Gegner - Musik","TBR",0,0,23,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word023",0.498684248,0.397031256
 27,"Zukunft - Hilfe","TBR",0,0,24,"TBR","TBF","TBF","TBR",0.5,"TBR1","word024",0.412035843,0.291897868
+28,"Partei - Herz","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 28,"Kirche - Zimmer","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 28,"Soldat - Bericht","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 28,"Himmel - Kraft","TBF",0,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -643,6 +671,7 @@
 28,"Wasser - Brief","TBR",0,0,22,"TBR","TBR","TBF","TBF",1.5,"TBR2","word022",0.35959392,0.233440407
 28,"Kosten - Jahr","TBR",0,0.5,23,"TBR","TBR","TBR","TBF",2.5,"TBR3","word023",0.288063092,0.16137316
 28,"Gesicht - Verwaltung","TBF",0,0,24,"TBR","TBR","TBR","TBR",2.5,"TBR3","word024",0.050846581,0.008195953
+29,"Höhe - Kapital","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 29,"Truppe - Uhr","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 29,"Himmel - Kraft","TBR",1,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 29,"Zeichen - Sache","TBF",0,0,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -666,6 +695,7 @@
 29,"Wasser - Brief","TBF",0,0,22,"TBR","TBR","TBR","TBF",2.5,"TBR3","word022",0.051195149,0.008293981
 29,"Partei - Herz","TBF",1,1,23,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word023",0.275100565,0.149373132
 29,"Tochter - Dienst","TBR",0,0,24,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word024",0.498035362,0.39621019
+30,"Haus - System","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30,"Rahmen - Abend","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 30,"Zeit - Ventil","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 30,"Recht - Frage","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -689,6 +719,7 @@
 30,"Partei - Herz","TBR",0,0,22,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word022",0.496187747,0.393874801
 30,"Spiegel - Fenster","TBR",1,1,23,"TBR","TBF","TBR","TBR",0.5,"TBR1","word023",0.411291482,0.291038341
 30,"Wasser - Brief","TBR",0,0,24,"TBR","TBR","TBF","TBR",1.5,"TBR2","word024",0.357072634,0.23074267
+31,"Kosten - Jahr","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 31,"Rahmen - Abend","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 31,"Wasser - Brief","TBF",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 31,"Haus - System","TBR",1,1,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.527060801,0.433361416
@@ -712,6 +743,7 @@
 31,"Tochter - Dienst","TBR",1,1,22,"TBR","TBR","TBF","TBF",1.5,"TBR2","word022",0.359601636,0.233448679
 31,"Soldat - Bericht","TBR",0,0.5,23,"TBR","TBR","TBR","TBF",2.5,"TBR3","word023",0.288063092,0.16137316
 31,"Zeichen - Sache","TBF",0,0,24,"TBR","TBR","TBR","TBR",2.5,"TBR3","word024",0.050846581,0.008195953
+32,"Himmel - Kraft","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 32,"Haus - System","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 32,"Tochter - Dienst","TBF",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 32,"Rahmen - Abend","TBR",0,0,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.527060801,0.433361416
@@ -735,6 +767,7 @@
 32,"Höhe - Kapital","TBR",0,0,22,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word022",0.499343,0.39786527
 32,"Truppe - Uhr","TBR",0,0,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412647522,0.292604795
 32,"Kirche - Zimmer","TBF",0,0,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.102661147,0.027726093
+33,"Spiegel - Fenster","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 33,"Recht - Frage","TBR",0,0.5,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 33,"Zeichen - Sache","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 33,"Haus - System","TBR",1,1,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -758,6 +791,7 @@
 33,"Seele - Presse","TBR",0,0.5,22,"TBR","TBF","TBR","TBR",0.5,"TBR1","word022",0.41332183,0.293384738
 33,"Gesicht - Verwaltung","TBR",1,1,23,"TBR","TBR","TBF","TBR",1.5,"TBR2","word023",0.359002516,0.232806641
 33,"Staat - Regierung","TBR",1,0,24,"TBR","TBR","TBR","TBF",2.5,"TBR3","word024",0.28750544,0.160849836
+34,"Himmel - Kraft","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 34,"Höhe - Kapital","TBR",0,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 34,"Recht - Frage","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 34,"Stimme - Tätigkeit","TBR",0,0.5,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -781,6 +815,7 @@
 34,"Kirche - Zimmer","TBF",0,0,22,"TBR","TBF","TBR","TBR",0.5,"TBR1","word022",0.158557847,0.058580323
 34,"Soldat - Bericht","TBF",0,0,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.275783002,0.149996243
 34,"Staat - Regierung","TBF",1,1,24,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word024",0.275242158,0.149502335
+35,"Höhe - Kapital","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35,"Arzt - Klasse","TBR",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 35,"Liebe - Sprache","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 35,"Himmel - Kraft","TBR",0,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -804,6 +839,7 @@
 35,"Tochter - Dienst","TBR",0,0.5,22,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word022",0.499355447,0.397881033
 35,"Zeichen - Sache","TBF",0,0,23,"TBR","TBF","TBR","TBF",0.5,"TBR1","word023",0.158158005,0.058327458
 35,"Stimme - Tätigkeit","TBF",0,0,24,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word024",0.275240506,0.149500828
+36,"Spiegel - Fenster","TBR",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 36,"Wasser - Brief","TBR",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 36,"Rahmen - Abend","TBR",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 36,"Arzt - Klasse","TBF",1,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.307218091,0.17972582
@@ -827,6 +863,7 @@
 36,"Gesicht - Verwaltung","TBF",0,0,22,"TBR","TBF","TBR","TBF",0.5,"TBR1","word022",0.158552484,0.058576928
 36,"Truppe - Uhr","TBR",0,0.5,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.498682979,0.397029651
 36,"Haus - System","TBF",0,0,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.15776953,0.058082204
+37,"Haus - System","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 37,"Wasser - Brief","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 37,"Stimme - Tätigkeit","TBF",1,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 37,"Rahmen - Abend","TBF",0,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -850,6 +887,7 @@
 37,"Gesicht - Verwaltung","TBR",0,0,22,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word022",0.499346028,0.397869104
 37,"Tochter - Dienst","TBR",1,1,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412652457,0.292610501
 37,"Soldat - Bericht","TBR",1,0,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.358380453,0.232140662
+38,"Himmel - Kraft","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 38,"Arzt - Klasse","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 38,"Zeit - Ventil","TBR",1,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 38,"Wasser - Brief","TBR",0,0.5,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -873,6 +911,7 @@
 38,"Zeichen - Sache","TBR",0,0,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.499354916,0.39788036
 38,"Gegner - Musik","TBF",0,0,23,"TBR","TBF","TBF","TBR",0.5,"TBR1","word023",0.158147384,0.058320747
 38,"Beziehung - Wunsch","TBR",1,1,24,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word024",0.498032208,0.3962062
+39,"Haus - System","TBR",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 39,"Arzt - Klasse","TBR",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 39,"Himmel - Kraft","TBR",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 39,"Seele - Presse","TBR",0,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.527060801,0.433361416
@@ -896,6 +935,7 @@
 39,"Höhe - Kapital","TBF",0,0,22,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word022",0.276340209,0.150505731
 39,"Wasser - Brief","TBF",0,0,23,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word023",0.275781199,0.149994595
 39,"Kosten - Jahr","TBF",0,0,24,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word024",0.275234232,0.149495102
+40,"Gegner - Musik","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 40,"Truppe - Uhr","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 40,"Zeichen - Sache","TBR",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 40,"Partei - Herz","TBR",0,0.5,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.527060801,0.433361416
@@ -919,6 +959,7 @@
 40,"Stimme - Tätigkeit","TBR",0,0,22,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word022",0.49934967,0.397873716
 40,"Beziehung - Wunsch","TBR",1,1,23,"TBR","TBF","TBR","TBR",0.5,"TBR1","word023",0.412672113,0.292633226
 40,"Gesicht - Verwaltung","TBF",0,0,24,"TBR","TBR","TBF","TBR",1.5,"TBR2","word024",0.102692436,0.027740692
+41,"Zukunft - Hilfe","TBR",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 41,"Tochter - Dienst","TBR",0,0.5,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 41,"Arzt - Klasse","TBR",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 41,"Rahmen - Abend","TBF",0,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.307218091,0.17972582
@@ -942,6 +983,7 @@
 41,"Wasser - Brief","TBF",0,0,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.276342695,0.150508006
 41,"Stimme - Tätigkeit","TBF",0,0,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.27577672,0.149990503
 41,"Zeichen - Sache","TBF",0,0,24,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word024",0.275232338,0.149493373
+42,"Himmel - Kraft","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42,"Liebe - Sprache","TBR",0,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 42,"Gegner - Musik","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 42,"Kosten - Jahr","TBR",0,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -965,6 +1007,7 @@
 42,"Zukunft - Hilfe","TBF",0,0,22,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word022",0.276334906,0.150500879
 42,"Zeichen - Sache","TBR",0,0,23,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word023",0.498684674,0.397031796
 42,"Haus - System","TBF",0,0,24,"TBR","TBF","TBF","TBR",0.5,"TBR1","word024",0.157762861,0.058077997
+43,"Gesicht - Verwaltung","TBR",0,0.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43,"Spiegel - Fenster","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 43,"Zukunft - Hilfe","TBR",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 43,"Rahmen - Abend","TBF",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -988,6 +1031,7 @@
 43,"Tochter - Dienst","TBR",0,0,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.499355761,0.397881431
 43,"Staat - Regierung","TBR",0,0,23,"TBR","TBF","TBF","TBR",0.5,"TBR1","word023",0.41266625,0.292626447
 43,"Seele - Presse","TBR",0,0.5,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.358398792,0.232160287
+44,"Soldat - Bericht","TBF",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 44,"Gesicht - Verwaltung","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 44,"Truppe - Uhr","TBR",0,0.5,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 44,"Seele - Presse","TBF",0,0,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -1011,6 +1055,7 @@
 44,"Beziehung - Wunsch","TBR",1,0,22,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word022",0.499346963,0.397870288
 44,"Partei - Herz","TBR",0,0,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.41265321,0.29261137
 44,"Tochter - Dienst","TBF",0,0,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.102668073,0.027729325
+45,"Kosten - Jahr","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 45,"Spiegel - Fenster","TBF",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 45,"Partei - Herz","TBF",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 45,"Beziehung - Wunsch","TBF",0,0,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.307218091,0.17972582
@@ -1034,6 +1079,7 @@
 45,"Recht - Frage","TBR",0,0.5,22,"TBR","TBR","TBR","TBR",2.5,"TBR3","word022",0.288640287,0.161915486
 45,"Soldat - Bericht","TBR",0,0,23,"TBR","TBR","TBR","TBR",2.5,"TBR3","word023",0.288063092,0.16137316
 45,"Truppe - Uhr","TBF",0,0,24,"TBR","TBR","TBR","TBR",2.5,"TBR3","word024",0.050846581,0.008195953
+46,"Wasser - Brief","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46,"Gesicht - Verwaltung","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 46,"Recht - Frage","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 46,"Haus - System","TBF",0,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -1057,6 +1103,7 @@
 46,"Partei - Herz","TBR",0,0.5,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.499353247,0.397878247
 46,"Spiegel - Fenster","TBR",0,0.5,23,"TBR","TBF","TBF","TBR",0.5,"TBR1","word023",0.412662906,0.292622582
 46,"Höhe - Kapital","TBR",1,1,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.358394264,0.23215544
+47,"Staat - Regierung","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 47,"Spiegel - Fenster","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 47,"Kirche - Zimmer","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 47,"Rahmen - Abend","TBF",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -1080,6 +1127,7 @@
 47,"Wasser - Brief","TBF",1,1,22,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word022",0.276324736,0.150491574
 47,"Haus - System","TBR",1,0,23,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word023",0.498672776,0.397016737
 47,"Beziehung - Wunsch","TBF",0,0.5,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.157743473,0.058065768
+48,"Rahmen - Abend","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 48,"Kirche - Zimmer","TBF",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 48,"Liebe - Sprache","TBR",0,0.5,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 48,"Höhe - Kapital","TBR",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -1103,6 +1151,7 @@
 48,"Soldat - Bericht","TBF",0,0,22,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word022",0.276335592,0.150501506
 48,"Partei - Herz","TBR",1,0,23,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word023",0.498685195,0.397032455
 48,"Tochter - Dienst","TBF",1,1,24,"TBR","TBF","TBF","TBR",0.5,"TBR1","word024",0.157764128,0.058078796
+49,"Spiegel - Fenster","TBF",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 49,"Seele - Presse","TBR",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 49,"Soldat - Bericht","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 49,"Gegner - Musik","TBR",1,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.527060801,0.433361416
@@ -1126,6 +1175,7 @@
 49,"Truppe - Uhr","TBF",0,0,22,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word022",0.276339121,0.150504736
 49,"Gesicht - Verwaltung","TBR",1,0.5,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.498677594,0.397022834
 49,"Recht - Frage","TBR",1,0,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.412026601,0.291887191
+50,"Staat - Regierung","TBF",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 50,"Zukunft - Hilfe","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 50,"Haus - System","TBF",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 50,"Spiegel - Fenster","TBR",1,0,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.527060801,0.433361416
@@ -1149,6 +1199,7 @@
 50,"Himmel - Kraft","TBF",0,0,22,"TBR","TBF","TBF","TBF",0.5,"TBR1","word022",0.158533795,0.0585651
 50,"Soldat - Bericht","TBF",0,0,23,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word023",0.275777204,0.149990945
 50,"Rahmen - Abend","TBR",1,1,24,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word024",0.498032165,0.396206145
+51,"Tochter - Dienst","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 51,"Seele - Presse","TBR",1,1,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 51,"Zeichen - Sache","TBF",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.308678804,0.181154907
 51,"Stimme - Tätigkeit","TBF",0,0,4,"TBF","TBR","TBR",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -1172,6 +1223,7 @@
 51,"Spiegel - Fenster","TBF",1,1,22,"TBR","TBF","TBR","TBR",0.5,"TBR1","word022",0.158559281,0.05858123
 51,"Höhe - Kapital","TBF",1,0,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.275783817,0.149996988
 51,"Partei - Herz","TBF",1,1,24,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word024",0.27524311,0.149503205
+52,"Tochter - Dienst","TBF",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 52,"Truppe - Uhr","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 52,"Stimme - Tätigkeit","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 52,"Zeichen - Sache","TBR",1,1,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.527060801,0.433361416
@@ -1195,6 +1247,7 @@
 52,"Spiegel - Fenster","TBR",1,1,22,"TBR","TBR","TBF","TBR",1.5,"TBR2","word022",0.35944179,0.233277323
 52,"Rahmen - Abend","TBR",1,1,23,"TBR","TBR","TBR","TBF",2.5,"TBR3","word023",0.288063092,0.16137316
 52,"Recht - Frage","TBF",0,0,24,"TBR","TBR","TBR","TBR",2.5,"TBR3","word024",0.050846581,0.008195953
+53,"Recht - Frage","TBR",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 53,"Partei - Herz","TBF",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 53,"Rahmen - Abend","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 53,"Seele - Presse","TBR",1,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.527060801,0.433361416
@@ -1218,6 +1271,7 @@
 53,"Höhe - Kapital","TBF",1,1,22,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word022",0.276340744,0.150506221
 53,"Himmel - Kraft","TBR",1,1,23,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word023",0.498682892,0.39702954
 53,"Kosten - Jahr","TBF",1,1,24,"TBR","TBF","TBF","TBR",0.5,"TBR1","word024",0.15776013,0.058076275
+54,"Partei - Herz","TBR",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 54,"Rahmen - Abend","TBR",1,1,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 54,"Tochter - Dienst","TBF",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.308678804,0.181154907
 54,"Haus - System","TBF",0,0,4,"TBF","TBR","TBR",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -1241,6 +1295,7 @@
 54,"Beziehung - Wunsch","TBR",1,1,22,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word022",0.499350812,0.397875163
 54,"Stimme - Tätigkeit","TBR",0,0,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412659657,0.292618825
 54,"Himmel - Kraft","TBF",0,0,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.102677015,0.027733496
+55,"Rahmen - Abend","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 55,"Soldat - Bericht","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 55,"Zeichen - Sache","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 55,"Gesicht - Verwaltung","TBR",0,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -1264,6 +1319,7 @@
 55,"Kirche - Zimmer","TBR",1,1,22,"TBR","TBR","TBF","TBF",1.5,"TBR2","word022",0.359588976,0.233435106
 55,"Tochter - Dienst","TBR",1,1,23,"TBR","TBR","TBR","TBF",2.5,"TBR3","word023",0.288063092,0.16137316
 55,"Zeit - Ventil","TBF",0,0,24,"TBR","TBR","TBR","TBR",2.5,"TBR3","word024",0.050846581,0.008195953
+56,"Gesicht - Verwaltung","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 56,"Kirche - Zimmer","TBF",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 56,"Spiegel - Fenster","TBR",0,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 56,"Seele - Presse","TBF",0,0,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -1287,6 +1343,7 @@
 56,"Truppe - Uhr","TBR",0,0,22,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word022",0.499353305,0.39787832
 56,"Beziehung - Wunsch","TBR",1,1,23,"TBR","TBF","TBR","TBF",0.5,"TBR1","word023",0.412669671,0.292630403
 56,"Kosten - Jahr","TBR",0,0,24,"TBR","TBR","TBF","TBR",1.5,"TBR2","word024",0.358402619,0.232164381
+57,"Gesicht - Verwaltung","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 57,"Gegner - Musik","TBR",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 57,"Recht - Frage","TBR",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 57,"Stimme - Tätigkeit","TBF",0,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.307218091,0.17972582
@@ -1310,6 +1367,7 @@
 57,"Seele - Presse","TBR",0,1,22,"TBR","TBF","TBR","TBF",0.5,"TBR1","word022",0.413316668,0.293378765
 57,"Soldat - Bericht","TBR",0,0.5,23,"TBR","TBR","TBF","TBR",1.5,"TBR2","word023",0.358995145,0.232798746
 57,"Rahmen - Abend","TBF",0,0,24,"TBR","TBR","TBR","TBF",2.5,"TBR3","word024",0.050846581,0.008195953
+58,"Höhe - Kapital","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 58,"Zeit - Ventil","TBR",1,1,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 58,"Gesicht - Verwaltung","TBF",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.308678804,0.181154907
 58,"Rahmen - Abend","TBR",0,0,4,"TBF","TBR","TBR",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -1333,6 +1391,7 @@
 58,"Tochter - Dienst","TBF",0,0,22,"TBR","TBF","TBF","TBR",0.5,"TBR1","word022",0.158548823,0.058574611
 58,"Spiegel - Fenster","TBR",1,1,23,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word023",0.498682445,0.397028974
 58,"Truppe - Uhr","TBR",0,0,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.412041604,0.291904523
+59,"Haus - System","TBR",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59,"Kosten - Jahr","TBF",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 59,"Spiegel - Fenster","TBF",1,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 59,"Liebe - Sprache","TBF",1,1,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -1356,6 +1415,7 @@
 59,"Seele - Presse","TBR",0,0,22,"TBR","TBR","TBF","TBF",1.5,"TBR2","word022",0.359608052,0.233455558
 59,"Wasser - Brief","TBF",0,0,23,"TBR","TBR","TBR","TBF",2.5,"TBR3","word023",0.051017708,0.008244017
 59,"Partei - Herz","TBF",1,0,24,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word024",0.27456167,0.148881771
+60,"Staat - Regierung","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 60,"Zeichen - Sache","TBR",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 60,"Stimme - Tätigkeit","TBR",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 60,"Tochter - Dienst","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -1379,6 +1439,7 @@
 60,"Truppe - Uhr","TBR",0,1,22,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word022",0.499352092,0.397876784
 60,"Gesicht - Verwaltung","TBF",0,0,23,"TBR","TBF","TBR","TBF",0.5,"TBR1","word023",0.158151704,0.058323477
 60,"Liebe - Sprache","TBR",0,0.5,24,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word024",0.498032939,0.396207125
+61,"Kosten - Jahr","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 61,"Seele - Presse","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 61,"Soldat - Bericht","TBR",0,0.5,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 61,"Zeit - Ventil","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -1402,6 +1463,7 @@
 61,"Spiegel - Fenster","TBF",1,0,22,"TBR","TBF","TBF","TBR",0.5,"TBR1","word022",0.158546512,0.058573148
 61,"Haus - System","TBR",1,0,23,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word023",0.498681818,0.39702818
 61,"Himmel - Kraft","TBR",0,0,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.412040259,0.29190297
+62,"Tochter - Dienst","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 62,"Haus - System","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 62,"Zukunft - Hilfe","TBF",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 62,"Stimme - Tätigkeit","TBR",0,0.5,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.527060801,0.433361416
@@ -1425,6 +1487,7 @@
 62,"Höhe - Kapital","TBR",0,0,22,"TBR","TBR","TBF","TBR",1.5,"TBR2","word022",0.359615872,0.233463942
 62,"Beziehung - Wunsch","TBR",0,0,23,"TBR","TBR","TBR","TBF",2.5,"TBR3","word023",0.288063097,0.161373165
 62,"Rahmen - Abend","TBR",1,1,24,"TBR","TBR","TBR","TBR",2.5,"TBR3","word024",0.28750544,0.160849836
+63,"Soldat - Bericht","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 63,"Rahmen - Abend","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 63,"Haus - System","TBR",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 63,"Zeit - Ventil","TBF",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -1448,6 +1511,7 @@
 63,"Seele - Presse","TBR",0,0,22,"TBR","TBF","TBF","TBR",0.5,"TBR1","word022",0.413316397,0.293378452
 63,"Tochter - Dienst","TBR",0,0,23,"TBR","TBR","TBF","TBF",1.5,"TBR2","word023",0.35899496,0.232798547
 63,"Liebe - Sprache","TBF",0,0.5,24,"TBR","TBR","TBR","TBF",2.5,"TBR3","word024",0.050846581,0.008195953
+64,"Recht - Frage","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 64,"Zeichen - Sache","TBR",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 64,"Rahmen - Abend","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 64,"Seele - Presse","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -1471,6 +1535,7 @@
 64,"Arzt - Klasse","TBF",0,0,22,"TBR","TBF","TBF","TBR",0.5,"TBR1","word022",0.158541176,0.058569771
 64,"Stimme - Tätigkeit","TBR",0,0,23,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word023",0.498681385,0.397027632
 64,"Staat - Regierung","TBF",0,0.5,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.157766305,0.058080169
+65,"Arzt - Klasse","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 65,"Kosten - Jahr","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 65,"Staat - Regierung","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 65,"Gesicht - Verwaltung","TBR",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -1494,6 +1559,7 @@
 65,"Himmel - Kraft","TBR",0,0,22,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word022",0.499352728,0.397877589
 65,"Kirche - Zimmer","TBR",0,0,23,"TBR","TBF","TBR","TBF",0.5,"TBR1","word023",0.412669575,0.292630292
 65,"Wasser - Brief","TBF",0,0,24,"TBR","TBR","TBF","TBR",1.5,"TBR2","word024",0.102688776,0.027738984
+66,"Himmel - Kraft","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 66,"Höhe - Kapital","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 66,"Rahmen - Abend","TBR",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 66,"Kirche - Zimmer","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -1517,6 +1583,7 @@
 66,"Wasser - Brief","TBR",0,0,22,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word022",0.499343401,0.397865777
 66,"Beziehung - Wunsch","TBR",1,1,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412648404,0.292605815
 66,"Spiegel - Fenster","TBR",1,1,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.358374597,0.232134396
+67,"Liebe - Sprache","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 67,"Tochter - Dienst","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 67,"Gesicht - Verwaltung","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 67,"Stimme - Tätigkeit","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -1540,6 +1607,7 @@
 67,"Truppe - Uhr","TBF",0,0,22,"TBR","TBR","TBR","TBF",2.5,"TBR3","word022",0.051195149,0.008293981
 67,"Staat - Regierung","TBR",1,1,23,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word023",0.498249148,0.396480653
 67,"Partei - Herz","TBF",0,0,24,"TBR","TBF","TBR","TBR",0.5,"TBR1","word024",0.157555715,0.057947394
+68,"Partei - Herz","TBR",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 68,"Zeit - Ventil","TBR",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 68,"Rahmen - Abend","TBR",1,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 68,"Truppe - Uhr","TBR",1,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.527060801,0.433361416
@@ -1563,6 +1631,7 @@
 68,"Gegner - Musik","TBF",1,0,22,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word022",0.276334155,0.150500192
 68,"Höhe - Kapital","TBR",1,1,23,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word023",0.498676271,0.39702116
 68,"Liebe - Sprache","TBR",1,0.5,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.412025136,0.291885499
+69,"Recht - Frage","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 69,"Spiegel - Fenster","TBF",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 69,"Liebe - Sprache","TBF",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 69,"Gegner - Musik","TBR",1,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.527060801,0.433361416
@@ -1586,6 +1655,7 @@
 69,"Haus - System","TBR",0,0.5,22,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word022",0.499347301,0.397870717
 69,"Kirche - Zimmer","TBR",0,0.5,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412654023,0.29261231
 69,"Gesicht - Verwaltung","TBR",1,1,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.358382261,0.232142597
+70,"Staat - Regierung","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 70,"Arzt - Klasse","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 70,"Spiegel - Fenster","TBR",0,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 70,"Tochter - Dienst","TBF",0,0,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -1609,6 +1679,7 @@
 70,"Beziehung - Wunsch","TBR",0,0,22,"TBR","TBF","TBR","TBF",0.5,"TBR1","word022",0.413318117,0.293380442
 70,"Rahmen - Abend","TBR",0,0,23,"TBR","TBR","TBF","TBR",1.5,"TBR2","word023",0.358996182,0.232799856
 70,"Gegner - Musik","TBF",0,0,24,"TBR","TBR","TBR","TBF",2.5,"TBR3","word024",0.050846581,0.008195953
+71,"Spiegel - Fenster","TBF",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 71,"Arzt - Klasse","TBR",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 71,"Staat - Regierung","TBR",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 71,"Seele - Presse","TBR",1,1,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.527060801,0.433361416
@@ -1632,6 +1703,7 @@
 71,"Zukunft - Hilfe","TBR",1,1,22,"TBR","TBF","TBR","TBR",0.5,"TBR1","word022",0.41198003,0.291833392
 71,"Rahmen - Abend","TBF",0,0,23,"TBR","TBR","TBF","TBR",1.5,"TBR2","word023",0.101811239,0.027330774
 71,"Recht - Frage","TBR",1,1,24,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word024",0.49802852,0.396201535
+72,"Arzt - Klasse","TBF",0,0.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 72,"Kirche - Zimmer","TBF",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 72,"Wasser - Brief","TBR",1,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 72,"Truppe - Uhr","TBR",1,1,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -1655,6 +1727,7 @@
 72,"Zukunft - Hilfe","TBF",0,0,22,"TBR","TBF","TBR","TBR",0.5,"TBR1","word022",0.158555743,0.058578991
 72,"Soldat - Bericht","TBF",0,1,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.275782126,0.149995443
 72,"Spiegel - Fenster","TBR",1,0,24,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word024",0.498034409,0.396208984
+73,"Zeit - Ventil","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 73,"Haus - System","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 73,"Zukunft - Hilfe","TBR",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 73,"Gesicht - Verwaltung","TBR",1,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.527060801,0.433361416
@@ -1678,6 +1751,7 @@
 73,"Zeichen - Sache","TBF",1,0,22,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word022",0.276340452,0.150505954
 73,"Höhe - Kapital","TBF",0,0,23,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word023",0.275781075,0.149994483
 73,"Spiegel - Fenster","TBF",1,1,24,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word024",0.275233857,0.14949476
+74,"Seele - Presse","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 74,"Staat - Regierung","TBF",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 74,"Gegner - Musik","TBF",1,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 74,"Wasser - Brief","TBR",1,1,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.527060801,0.433361416
@@ -1701,6 +1775,7 @@
 74,"Spiegel - Fenster","TBR",1,1,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.499350747,0.39787508
 74,"Zeichen - Sache","TBR",1,1,23,"TBR","TBF","TBF","TBR",0.5,"TBR1","word023",0.412659102,0.292618183
 74,"Gesicht - Verwaltung","TBF",1,0,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.102675183,0.027732642
+75,"Liebe - Sprache","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 75,"Gegner - Musik","TBR",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 75,"Kirche - Zimmer","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 75,"Partei - Herz","TBF",1,0.5,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -1724,6 +1799,7 @@
 75,"Staat - Regierung","TBR",1,1,22,"TBR","TBF","TBF","TBR",0.5,"TBR1","word022",0.413309851,0.293370877
 75,"Wasser - Brief","TBF",0,0,23,"TBR","TBR","TBF","TBF",1.5,"TBR2","word023",0.102955353,0.027863483
 75,"Haus - System","TBR",1,1,24,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word024",0.49802782,0.396200649
+76,"Staat - Regierung","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 76,"Zeichen - Sache","TBR",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 76,"Zeit - Ventil","TBR",0,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 76,"Arzt - Klasse","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -1747,6 +1823,7 @@
 76,"Seele - Presse","TBF",0,0,22,"TBR","TBF","TBR","TBF",0.5,"TBR1","word022",0.158554489,0.058578197
 76,"Spiegel - Fenster","TBR",0,0.5,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.498682812,0.397029438
 76,"Stimme - Tätigkeit","TBR",1,0,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.412041698,0.291904632
+77,"Zeit - Ventil","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 77,"Tochter - Dienst","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 77,"Spiegel - Fenster","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 77,"Liebe - Sprache","TBF",0,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -1770,6 +1847,7 @@
 77,"Himmel - Kraft","TBR",0,0,22,"TBR","TBR","TBF","TBF",1.5,"TBR2","word022",0.359607673,0.233455152
 77,"Höhe - Kapital","TBF",0,0,23,"TBR","TBR","TBR","TBF",2.5,"TBR3","word023",0.051017708,0.008244017
 77,"Truppe - Uhr","TBF",0,0,24,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word024",0.274561211,0.148881352
+78,"Zeichen - Sache","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 78,"Kirche - Zimmer","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 78,"Tochter - Dienst","TBF",1,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 78,"Recht - Frage","TBF",0,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -1793,6 +1871,7 @@
 78,"Zukunft - Hilfe","TBF",1,0,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.276345165,0.150510265
 78,"Rahmen - Abend","TBR",1,1,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.498680226,0.397026166
 78,"Gesicht - Verwaltung","TBF",0,0,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.157756154,0.058073767
+79,"Wasser - Brief","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 79,"Tochter - Dienst","TBR",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 79,"Gesicht - Verwaltung","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 79,"Arzt - Klasse","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -1816,6 +1895,7 @@
 79,"Kosten - Jahr","TBF",1,0,22,"TBR","TBF","TBR","TBR",0.5,"TBR1","word022",0.158555868,0.05857907
 79,"Liebe - Sprache","TBR",0,0,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.49868344,0.397030234
 79,"Gegner - Musik","TBR",1,1,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.41204277,0.291905871
+80,"Gesicht - Verwaltung","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 80,"Partei - Herz","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 80,"Spiegel - Fenster","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 80,"Seele - Presse","TBR",1,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -1839,6 +1919,7 @@
 80,"Gegner - Musik","TBR",0,0,22,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word022",0.499342769,0.397864977
 80,"Stimme - Tätigkeit","TBR",0,0,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412647496,0.292604765
 80,"Rahmen - Abend","TBF",0,0,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.102661573,0.027726292
+81,"Partei - Herz","TBR",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 81,"Tochter - Dienst","TBR",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 81,"Rahmen - Abend","TBF",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.308678804,0.181154907
 81,"Zukunft - Hilfe","TBR",1,1,4,"TBF","TBR","TBR",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -1862,6 +1943,7 @@
 81,"Haus - System","TBF",0,0,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.276345895,0.150510934
 81,"Gegner - Musik","TBF",0,0.5,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.275778042,0.149991711
 81,"Zeichen - Sache","TBF",0,0,24,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word024",0.275233014,0.14949399
+82,"Partei - Herz","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 82,"Zeichen - Sache","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 82,"Kirche - Zimmer","TBR",1,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 82,"Beziehung - Wunsch","TBR",1,1,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -1885,6 +1967,7 @@
 82,"Recht - Frage","TBR",1,1,22,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word022",0.499348834,0.397872657
 82,"Himmel - Kraft","TBF",0,0,23,"TBR","TBF","TBR","TBR",0.5,"TBR1","word023",0.158154488,0.058325236
 82,"Gegner - Musik","TBF",0,0,24,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word024",0.275240039,0.149500402
+83,"Spiegel - Fenster","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 83,"Rahmen - Abend","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 83,"Zukunft - Hilfe","TBF",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 83,"Haus - System","TBR",1,0,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.527060801,0.433361416
@@ -1908,6 +1991,7 @@
 83,"Arzt - Klasse","TBF",0,0.5,22,"TBR","TBR","TBR","TBF",2.5,"TBR3","word022",0.051195149,0.008293981
 83,"Wasser - Brief","TBF",0,0.5,23,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word023",0.275101096,0.149373616
 83,"Kosten - Jahr","TBR",1,1,24,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word024",0.498035287,0.396210095
+84,"Himmel - Kraft","TBF",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 84,"Tochter - Dienst","TBF",0,0.5,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 84,"Zukunft - Hilfe","TBR",1,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 84,"Partei - Herz","TBR",1,0,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -1931,6 +2015,7 @@
 84,"Seele - Presse","TBF",0,0,22,"TBR","TBR","TBR","TBF",2.5,"TBR3","word022",0.051195149,0.008293981
 84,"Staat - Regierung","TBR",0,0.5,23,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word023",0.498246804,0.396477688
 84,"Liebe - Sprache","TBR",1,0,24,"TBR","TBF","TBR","TBR",0.5,"TBR1","word024",0.411854916,0.291688873
+85,"Liebe - Sprache","TBR",0,0.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 85,"Zeit - Ventil","TBR",1,0.5,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 85,"Gegner - Musik","TBF",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.308678804,0.181154907
 85,"Seele - Presse","TBF",0,0,4,"TBF","TBR","TBR",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -1954,6 +2039,7 @@
 85,"Höhe - Kapital","TBF",0,0,22,"TBR","TBR","TBR","TBF",2.5,"TBR3","word022",0.051195149,0.008293981
 85,"Zukunft - Hilfe","TBR",0,0,23,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word023",0.498249758,0.396481425
 85,"Gesicht - Verwaltung","TBR",0,1,24,"TBR","TBF","TBR","TBR",0.5,"TBR1","word024",0.411858826,0.29169339
+86,"Kosten - Jahr","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 86,"Höhe - Kapital","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 86,"Haus - System","TBR",1,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 86,"Recht - Frage","TBR",1,1,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -1977,6 +2063,7 @@
 86,"Gesicht - Verwaltung","TBR",1,1,22,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word022",0.499350397,0.397874637
 86,"Beziehung - Wunsch","TBR",0,0,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412658982,0.292618045
 86,"Zeit - Ventil","TBF",1,1,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.102676128,0.027733083
+87,"Tochter - Dienst","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 87,"Wasser - Brief","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 87,"Recht - Frage","TBF",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 87,"Haus - System","TBF",1,0,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.307218091,0.17972582
@@ -2000,6 +2087,7 @@
 87,"Gesicht - Verwaltung","TBR",0,0,22,"TBR","TBR","TBR","TBF",2.5,"TBR3","word022",0.288640287,0.161915486
 87,"Seele - Presse","TBF",0,0,23,"TBR","TBR","TBR","TBR",2.5,"TBR3","word023",0.051017708,0.008244017
 87,"Höhe - Kapital","TBR",0,0,24,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word024",0.494956282,0.392320284
+88,"Haus - System","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 88,"Himmel - Kraft","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 88,"Zukunft - Hilfe","TBF",1,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 88,"Arzt - Klasse","TBR",1,1,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.527060801,0.433361416
@@ -2023,6 +2111,7 @@
 88,"Zeichen - Sache","TBR",1,1,22,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word022",0.499353415,0.397878459
 88,"Soldat - Bericht","TBF",0,0,23,"TBR","TBF","TBF","TBR",0.5,"TBR1","word023",0.158144717,0.058319062
 88,"Partei - Herz","TBR",0,0,24,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word024",0.498031779,0.396205657
+89,"Höhe - Kapital","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 89,"Zeichen - Sache","TBF",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 89,"Partei - Herz","TBR",0,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 89,"Soldat - Bericht","TBF",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -2046,6 +2135,7 @@
 89,"Gegner - Musik","TBF",0,0,22,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word022",0.276339262,0.150504865
 89,"Truppe - Uhr","TBF",0,0.5,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.275773543,0.1499876
 89,"Haus - System","TBR",1,1,24,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word024",0.498027137,0.396199785
+90,"Truppe - Uhr","TBR",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 90,"Gesicht - Verwaltung","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 90,"Kosten - Jahr","TBR",1,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 90,"Recht - Frage","TBF",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -2069,6 +2159,7 @@
 90,"Arzt - Klasse","TBR",1,1,22,"TBR","TBF","TBF","TBF",0.5,"TBR1","word022",0.413301239,0.293360912
 90,"Haus - System","TBR",0,0,23,"TBR","TBR","TBF","TBF",1.5,"TBR2","word023",0.358975027,0.232777196
 90,"Liebe - Sprache","TBF",0,0,24,"TBR","TBR","TBR","TBF",2.5,"TBR3","word024",0.050846581,0.008195953
+91,"Recht - Frage","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 91,"Wasser - Brief","TBR",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 91,"Arzt - Klasse","TBF",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.308678804,0.181154907
 91,"Liebe - Sprache","TBF",0,0,4,"TBF","TBR","TBR",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -2092,6 +2183,7 @@
 91,"Soldat - Bericht","TBR",0,0,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.499355239,0.397880769
 91,"Gegner - Musik","TBR",0,0,23,"TBR","TBF","TBF","TBR",0.5,"TBR1","word023",0.412665408,0.292625474
 91,"Partei - Herz","TBR",0,0,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.358397664,0.23215908
+92,"Rahmen - Abend","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 92,"Stimme - Tätigkeit","TBF",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 92,"Zukunft - Hilfe","TBR",1,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 92,"Soldat - Bericht","TBR",1,1,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -2115,6 +2207,7 @@
 92,"Höhe - Kapital","TBF",0,0,22,"TBR","TBF","TBF","TBF",0.5,"TBR1","word022",0.158536119,0.05856657
 92,"Partei - Herz","TBR",1,0.5,23,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word023",0.498680621,0.397026666
 92,"Kosten - Jahr","TBF",0,0,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.157764725,0.058079173
+93,"Truppe - Uhr","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 93,"Kosten - Jahr","TBR",1,1,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 93,"Kirche - Zimmer","TBR",1,1,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 93,"Gesicht - Verwaltung","TBR",1,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.527060801,0.433361416
@@ -2138,6 +2231,7 @@
 93,"Spiegel - Fenster","TBF",0,0,22,"TBR","TBF","TBR","TBR",0.5,"TBR1","word022",0.158343233,0.058444544
 93,"Recht - Frage","TBR",1,1,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.498684388,0.397031433
 93,"Zeit - Ventil","TBF",1,1,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.157772327,0.058083968
+94,"Zeichen - Sache","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 94,"Partei - Herz","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 94,"Beziehung - Wunsch","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 94,"Zeit - Ventil","TBR",1,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -2161,6 +2255,7 @@
 94,"Haus - System","TBF",1,1,22,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word022",0.276336402,0.150502248
 94,"Kosten - Jahr","TBF",1,0,23,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word023",0.275772599,0.149986737
 94,"Tochter - Dienst","TBR",1,0,24,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word024",0.498026999,0.39619961
+95,"Seele - Presse","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 95,"Liebe - Sprache","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 95,"Staat - Regierung","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 95,"Gegner - Musik","TBF",0,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -2184,6 +2279,7 @@
 95,"Partei - Herz","TBR",1,1,22,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word022",0.494940829,0.392300789
 95,"Höhe - Kapital","TBF",0,0,23,"TBR","TBF","TBR","TBR",0.5,"TBR1","word023",0.155921339,0.056921099
 95,"Kirche - Zimmer","TBR",0,0,24,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word024",0.498033048,0.396207262
+96,"Höhe - Kapital","TBF",0,0.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 96,"Staat - Regierung","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 96,"Tochter - Dienst","TBR",1,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 96,"Gegner - Musik","TBF",0,0.5,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -2207,6 +2303,7 @@
 96,"Kosten - Jahr","TBF",0,0,22,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word022",0.276330945,0.150497255
 96,"Kirche - Zimmer","TBR",0,0.5,23,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word023",0.498674581,0.397019021
 96,"Wasser - Brief","TBR",1,1,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.41202202,0.291881899
+97,"Stimme - Tätigkeit","TBR",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 97,"Beziehung - Wunsch","TBF",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 97,"Zukunft - Hilfe","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 97,"Wasser - Brief","TBF",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -2230,6 +2327,7 @@
 97,"Partei - Herz","TBR",1,1,22,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word022",0.49934672,0.397869981
 97,"Haus - System","TBR",0,0,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412653724,0.292611965
 97,"Staat - Regierung","TBF",0,0,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.102669801,0.027730131
+98,"Stimme - Tätigkeit","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 98,"Seele - Presse","TBR",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 98,"Truppe - Uhr","TBF",0,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.308678804,0.181154907
 98,"Staat - Regierung","TBR",1,1,4,"TBF","TBR","TBR",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -2253,6 +2351,7 @@
 98,"Spiegel - Fenster","TBF",0,0,22,"TBR","TBF","TBF","TBF",0.5,"TBR1","word022",0.158529584,0.058562434
 98,"Kosten - Jahr","TBR",0,0,23,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word023",0.49868023,0.397026171
 98,"Haus - System","TBR",0,0,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.412037934,0.291900284
+99,"Soldat - Bericht","TBR",0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 99,"Haus - System","TBF",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 99,"Beziehung - Wunsch","TBR",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 99,"Arzt - Klasse","TBR",1,1,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -2276,6 +2375,7 @@
 99,"Truppe - Uhr","TBF",0,0,22,"TBR","TBF","TBR","TBF",0.5,"TBR1","word022",0.158555928,0.058579108
 99,"Seele - Presse","TBR",0,0,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.498683344,0.397030112
 99,"Gegner - Musik","TBF",0,0.5,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.157770127,0.05808258
+100,"Spiegel - Fenster","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 100,"Arzt - Klasse","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 100,"Stimme - Tätigkeit","TBR",0,0.5,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 100,"Beziehung - Wunsch","TBR",0,0.5,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -2299,6 +2399,7 @@
 100,"Himmel - Kraft","TBF",0,0,22,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word022",0.276339287,0.150504888
 100,"Zeichen - Sache","TBR",1,1,23,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word023",0.498681855,0.397028228
 100,"Soldat - Bericht","TBR",1,1,24,"TBR","TBF","TBF","TBR",0.5,"TBR1","word024",0.412032193,0.291893652
+101,"Stimme - Tätigkeit","TBR",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 101,"Zeichen - Sache","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 101,"Gegner - Musik","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 101,"Himmel - Kraft","TBR",1,1,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.527060801,0.433361416
@@ -2322,6 +2423,7 @@
 101,"Partei - Herz","TBF",0,0,22,"TBR","TBF","TBF","TBF",0.5,"TBR1","word022",0.158537443,0.058567408
 101,"Arzt - Klasse","TBR",0,0,23,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word023",0.498681151,0.397027336
 101,"Kirche - Zimmer","TBF",0,0,24,"TBR","TBF","TBR","TBF",0.5,"TBR1","word024",0.157766111,0.058080047
+102,"Partei - Herz","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 102,"Himmel - Kraft","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 102,"Tochter - Dienst","TBF",1,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 102,"Zeichen - Sache","TBF",1,0,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.307218091,0.17972582
@@ -2345,6 +2447,7 @@
 102,"Soldat - Bericht","TBR",0,0,22,"TBR","TBF","TBF","TBF",0.5,"TBR1","word022",0.413303506,0.293363535
 102,"Höhe - Kapital","TBR",0,0.5,23,"TBR","TBR","TBF","TBF",1.5,"TBR2","word023",0.358976199,0.232778452
 102,"Kirche - Zimmer","TBR",0,0,24,"TBR","TBR","TBR","TBF",2.5,"TBR3","word024",0.28750544,0.160849836
+103,"Wasser - Brief","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 103,"Himmel - Kraft","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 103,"Recht - Frage","TBR",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 103,"Tochter - Dienst","TBR",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.527060801,0.433361416
@@ -2368,6 +2471,7 @@
 103,"Liebe - Sprache","TBF",0,0,22,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word022",0.276338359,0.150504038
 103,"Zeit - Ventil","TBF",1,0,23,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word023",0.275779472,0.149993017
 103,"Kirche - Zimmer","TBR",1,1,24,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word024",0.498028914,0.396202033
+104,"Tochter - Dienst","TBR",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 104,"Gegner - Musik","TBR",1,1,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 104,"Kirche - Zimmer","TBR",1,1,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 104,"Himmel - Kraft","TBF",0,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.307218091,0.17972582
@@ -2391,6 +2495,7 @@
 104,"Stimme - Tätigkeit","TBF",0,0,22,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word022",0.268275729,0.143195303
 104,"Beziehung - Wunsch","TBF",1,1,23,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word023",0.275778357,0.149991999
 104,"Partei - Herz","TBF",0,0,24,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word024",0.275233623,0.149494547
+105,"Höhe - Kapital","TBF",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 105,"Staat - Regierung","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 105,"Recht - Frage","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 105,"Zukunft - Hilfe","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -2414,6 +2519,7 @@
 105,"Beziehung - Wunsch","TBR",0,0,22,"TBR","TBR","TBR","TBR",2.5,"TBR3","word022",0.288640287,0.161915486
 105,"Zeichen - Sache","TBF",0,0,23,"TBR","TBR","TBR","TBR",2.5,"TBR3","word023",0.051017708,0.008244017
 105,"Haus - System","TBR",1,1,24,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word024",0.493622122,0.390638003
+106,"Stimme - Tätigkeit","TBR",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 106,"Partei - Herz","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 106,"Wasser - Brief","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 106,"Staat - Regierung","TBF",1,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -2437,6 +2543,7 @@
 106,"Gesicht - Verwaltung","TBR",1,1,22,"TBR","TBF","TBR","TBF",0.5,"TBR1","word022",0.413319062,0.293381536
 106,"Gegner - Musik","TBF",0,0,23,"TBR","TBR","TBF","TBR",1.5,"TBR2","word023",0.102967134,0.027868991
 106,"Kirche - Zimmer","TBR",0,0,24,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word024",0.49802862,0.396201661
+107,"Stimme - Tätigkeit","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 107,"Himmel - Kraft","TBF",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 107,"Soldat - Bericht","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 107,"Zeit - Ventil","TBR",1,1,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -2460,6 +2567,7 @@
 107,"Gesicht - Verwaltung","TBF",0,0,22,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word022",0.27634004,0.150505576
 107,"Spiegel - Fenster","TBF",0,0,23,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word023",0.275781102,0.149994507
 107,"Haus - System","TBF",0,0.5,24,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word024",0.275234133,0.149495011
+108,"Zeichen - Sache","TBR",0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 108,"Zukunft - Hilfe","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 108,"Truppe - Uhr","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 108,"Gegner - Musik","TBR",1,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.527060801,0.433361416
@@ -2483,6 +2591,7 @@
 108,"Stimme - Tätigkeit","TBF",0,0,22,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word022",0.276342601,0.150507919
 108,"Staat - Regierung","TBR",0,0,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.498679188,0.397024852
 108,"Wasser - Brief","TBR",0,0.5,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.412029242,0.291890242
+109,"Haus - System","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 109,"Höhe - Kapital","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 109,"Arzt - Klasse","TBF",0,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 109,"Gegner - Musik","TBR",0,1,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.527060801,0.433361416
@@ -2506,6 +2615,7 @@
 109,"Stimme - Tätigkeit","TBF",0,0,22,"TBR","TBF","TBF","TBR",0.5,"TBR1","word022",0.158538364,0.058567991
 109,"Wasser - Brief","TBF",0,0,23,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word023",0.275778194,0.14999185
 109,"Liebe - Sprache","TBF",0,0,24,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word024",0.275238501,0.149498998
+110,"Liebe - Sprache","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 110,"Tochter - Dienst","TBF",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 110,"Himmel - Kraft","TBF",1,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 110,"Truppe - Uhr","TBR",1,0,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.527060801,0.433361416
@@ -2529,6 +2639,7 @@
 110,"Staat - Regierung","TBF",0,0,22,"TBR","TBR","TBF","TBR",1.5,"TBR2","word022",0.103258574,0.028005376
 110,"Rahmen - Abend","TBF",0,0.5,23,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word023",0.275773869,0.149987898
 110,"Beziehung - Wunsch","TBR",0,0,24,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word024",0.498035302,0.396210113
+111,"Kosten - Jahr","TBF",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 111,"Stimme - Tätigkeit","TBF",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 111,"Wasser - Brief","TBR",0,0.5,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 111,"Soldat - Bericht","TBF",1,0,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -2552,6 +2663,7 @@
 111,"Rahmen - Abend","TBR",1,1,22,"TBR","TBF","TBR","TBF",0.5,"TBR1","word022",0.41332,0.293382621
 111,"Zeichen - Sache","TBF",1,1,23,"TBR","TBR","TBF","TBR",1.5,"TBR2","word023",0.102967641,0.027869228
 111,"Zeit - Ventil","TBF",1,1,24,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word024",0.275231733,0.149492822
+112,"Zukunft - Hilfe","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 112,"Himmel - Kraft","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 112,"Soldat - Bericht","TBR",1,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 112,"Rahmen - Abend","TBR",1,1,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -2575,6 +2687,7 @@
 112,"Seele - Presse","TBF",0,0,22,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word022",0.27633949,0.150505073
 112,"Staat - Regierung","TBR",1,1,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.498677957,0.397023294
 112,"Zeichen - Sache","TBR",0,0,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.412027049,0.291887709
+113,"Zeit - Ventil","TBR",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 113,"Stimme - Tätigkeit","TBR",1,1,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 113,"Soldat - Bericht","TBR",1,1,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 113,"Rahmen - Abend","TBF",1,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.307218091,0.17972582
@@ -2598,6 +2711,7 @@
 113,"Kirche - Zimmer","TBF",0,0,22,"TBR","TBR","TBF","TBR",1.5,"TBR2","word022",0.103262964,0.028007433
 113,"Partei - Herz","TBF",1,0,23,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word023",0.275775399,0.149989296
 113,"Kosten - Jahr","TBR",0,0,24,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word024",0.498036466,0.396211585
+114,"Arzt - Klasse","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 114,"Tochter - Dienst","TBR",1,1,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 114,"Liebe - Sprache","TBR",1,1,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 114,"Höhe - Kapital","TBR",0,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.527060801,0.433361416
@@ -2621,6 +2735,7 @@
 114,"Soldat - Bericht","TBF",0,0,22,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word022",0.276338325,0.150504007
 114,"Wasser - Brief","TBR",0,0.5,23,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word023",0.498677491,0.397022704
 114,"Beziehung - Wunsch","TBR",0,0,24,"TBR","TBF","TBF","TBF",0.5,"TBR1","word024",0.412026726,0.291887336
+115,"Zukunft - Hilfe","TBR",0,0.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 115,"Seele - Presse","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 115,"Arzt - Klasse","TBR",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 115,"Spiegel - Fenster","TBR",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -2644,6 +2759,7 @@
 115,"Stimme - Tätigkeit","TBR",0,0,22,"TBR","TBR","TBR","TBF",2.5,"TBR3","word022",0.288640287,0.161915486
 115,"Höhe - Kapital","TBF",0,0,23,"TBR","TBR","TBR","TBR",2.5,"TBR3","word023",0.051017708,0.008244017
 115,"Haus - System","TBR",0,0,24,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word024",0.494956608,0.392320696
+116,"Beziehung - Wunsch","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 116,"Spiegel - Fenster","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 116,"Höhe - Kapital","TBF",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 116,"Liebe - Sprache","TBF",1,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -2667,6 +2783,7 @@
 116,"Seele - Presse","TBF",0,0,22,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word022",0.276343541,0.150508779
 116,"Partei - Herz","TBF",0,0,23,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word023",0.275783315,0.149996529
 116,"Zeit - Ventil","TBF",0,0,24,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word024",0.275235465,0.149496228
+117,"Haus - System","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 117,"Kosten - Jahr","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 117,"Seele - Presse","TBF",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 117,"Soldat - Bericht","TBR",1,1,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.527060801,0.433361416
@@ -2690,6 +2807,7 @@
 117,"Arzt - Klasse","TBF",1,0,22,"TBR","TBR","TBR","TBR",2.5,"TBR3","word022",0.051195149,0.008293981
 117,"Zeit - Ventil","TBF",0,0,23,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word023",0.270981947,0.145633238
 117,"Gesicht - Verwaltung","TBF",1,0,24,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word024",0.275241413,0.149501656
+118,"Liebe - Sprache","TBF",0,0.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 118,"Haus - System","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 118,"Kirche - Zimmer","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 118,"Arzt - Klasse","TBF",0,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -2713,6 +2831,7 @@
 118,"Zukunft - Hilfe","TBF",0,0,22,"TBR","TBR","TBF","TBR",1.5,"TBR2","word022",0.103254221,0.028003337
 118,"Soldat - Bericht","TBR",0,0.5,23,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word023",0.498677866,0.397023178
 118,"Tochter - Dienst","TBR",1,1,24,"TBR","TBF","TBR","TBR",0.5,"TBR1","word024",0.412041603,0.291904523
+119,"Tochter - Dienst","TBF",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 119,"Zeit - Ventil","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 119,"Wasser - Brief","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 119,"Soldat - Bericht","TBR",1,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.527060801,0.433361416
@@ -2736,6 +2855,7 @@
 119,"Beziehung - Wunsch","TBR",0,0,22,"TBR","TBR","TBR","TBF",2.5,"TBR3","word022",0.288640287,0.161915486
 119,"Rahmen - Abend","TBF",0,0,23,"TBR","TBR","TBR","TBR",2.5,"TBR3","word023",0.051017708,0.008244017
 119,"Spiegel - Fenster","TBR",0,0,24,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word024",0.494956939,0.392321114
+120,"Himmel - Kraft","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 120,"Zeichen - Sache","TBF",1,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 120,"Recht - Frage","TBR",0,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 120,"Arzt - Klasse","TBF",0,0,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -2759,6 +2879,7 @@
 120,"Seele - Presse","TBF",0,0,22,"TBR","TBR","TBF","TBF",1.5,"TBR2","word022",0.103239397,0.027996393
 120,"Zeit - Ventil","TBR",0,0,23,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word023",0.498677617,0.397022863
 120,"Truppe - Uhr","TBR",1,1,24,"TBR","TBF","TBR","TBR",0.5,"TBR1","word024",0.412041479,0.291904379
+121,"Partei - Herz","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 121,"Haus - System","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 121,"Beziehung - Wunsch","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 121,"Gegner - Musik","TBR",1,1,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.527060801,0.433361416
@@ -2782,6 +2903,7 @@
 121,"Seele - Presse","TBR",0,0,22,"TBR","TBF","TBF","TBR",0.5,"TBR1","word022",0.413310205,0.293371287
 121,"Zeichen - Sache","TBR",0,0,23,"TBR","TBR","TBF","TBF",1.5,"TBR2","word023",0.35898608,0.232789035
 121,"Tochter - Dienst","TBR",0,0,24,"TBR","TBR","TBR","TBF",2.5,"TBR3","word024",0.28750544,0.160849836
+122,"Beziehung - Wunsch","TBF",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 122,"Gesicht - Verwaltung","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 122,"Truppe - Uhr","TBF",1,1,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 122,"Staat - Regierung","TBR",1,1,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.527060801,0.433361416
@@ -2805,6 +2927,7 @@
 122,"Recht - Frage","TBF",0,0,22,"TBR","TBF","TBF","TBF",0.5,"TBR1","word022",0.158527885,0.058561359
 122,"Zeichen - Sache","TBF",0,0,23,"TBF","TBR","TBF","TBF",-0.5,"TBF1","word023",0.275776,0.149989845
 122,"Kosten - Jahr","TBR",1,0,24,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word024",0.498031568,0.39620539
+123,"Soldat - Bericht","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 123,"Liebe - Sprache","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 123,"Kosten - Jahr","TBR",1,0.5,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 123,"Kirche - Zimmer","TBF",1,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -2828,6 +2951,7 @@
 123,"Haus - System","TBF",1,0,22,"TBR","TBF","TBR","TBR",0.5,"TBR1","word022",0.158556326,0.05857936
 123,"Seele - Presse","TBF",1,0,23,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word023",0.275782473,0.149995759
 123,"Tochter - Dienst","TBR",0,0,24,"TBF","TBF","TBR","TBF",-1.5,"TBF2","word024",0.498034672,0.396209317
+124,"Staat - Regierung","TBR",1,0.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 124,"Kirche - Zimmer","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 124,"Arzt - Klasse","TBF",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 124,"Wasser - Brief","TBF",1,1,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.307218091,0.17972582
@@ -2851,6 +2975,7 @@
 124,"Haus - System","TBR",1,0,22,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word022",0.499355073,0.397880559
 124,"Himmel - Kraft","TBR",1,0,23,"TBR","TBF","TBR","TBF",0.5,"TBR1","word023",0.41267294,0.292634183
 124,"Höhe - Kapital","TBR",1,1,24,"TBR","TBR","TBF","TBR",1.5,"TBR2","word024",0.358407904,0.232170037
+125,"Zeit - Ventil","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 125,"Gegner - Musik","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 125,"Gesicht - Verwaltung","TBR",1,1,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 125,"Kosten - Jahr","TBR",1,1,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -2874,6 +2999,7 @@
 125,"Rahmen - Abend","TBR",1,1,22,"TBF","TBF","TBF","TBF",-2.5,"TBF3","word022",0.499342188,0.397864241
 125,"Spiegel - Fenster","TBR",1,1,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412646934,0.292604115
 125,"Zukunft - Hilfe","TBF",1,1,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.102661323,0.027726175
+126,"Kosten - Jahr","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 126,"Recht - Frage","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 126,"Gegner - Musik","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 126,"Seele - Presse","TBF",0,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -2897,6 +3023,7 @@
 126,"Partei - Herz","TBR",0,0,22,"TBF","TBF","TBF","TBR",-2.5,"TBF3","word022",0.499349429,0.397873411
 126,"Truppe - Uhr","TBR",0,0,23,"TBR","TBF","TBF","TBF",0.5,"TBR1","word023",0.412656946,0.292615691
 126,"Spiegel - Fenster","TBR",1,1,24,"TBR","TBR","TBF","TBF",1.5,"TBR2","word024",0.358385856,0.232146443
+127,"Tochter - Dienst","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 127,"Zeit - Ventil","TBR",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.530529395,0.437856141
 127,"Recht - Frage","TBR",1,0,3,"TBR","TBR",NA,NA,1.5,"TBR2","word003",0.528713345,0.43550145
 127,"Zukunft - Hilfe","TBR",0,0,4,"TBR","TBR","TBR",NA,2.5,"TBR3","word004",0.527060801,0.433361416
@@ -2920,6 +3047,7 @@
 127,"Staat - Regierung","TBR",0,0,22,"TBR","TBR","TBR","TBF",2.5,"TBR3","word022",0.288640287,0.161915486
 127,"Arzt - Klasse","TBF",0,0,23,"TBR","TBR","TBR","TBR",2.5,"TBR3","word023",0.051017708,0.008244017
 127,"Partei - Herz","TBF",0,0,24,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word024",0.270445867,0.145149074
+128,"Seele - Presse","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 128,"Liebe - Sprache","TBF",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 128,"Himmel - Kraft","TBF",1,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.308678804,0.181154907
 128,"Gesicht - Verwaltung","TBF",1,1,4,"TBF","TBF","TBF",NA,-2.5,"TBF3","word004",0.307218091,0.17972582
@@ -2943,6 +3071,7 @@
 128,"Wasser - Brief","TBR",1,1,22,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word022",0.499349182,0.397873098
 128,"Höhe - Kapital","TBF",1,0,23,"TBR","TBF","TBR","TBR",0.5,"TBR1","word023",0.158154737,0.058325393
 128,"Spiegel - Fenster","TBR",0,0,24,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word024",0.498033418,0.39620773
+129,"Gesicht - Verwaltung","TBR",0,0.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 129,"Zukunft - Hilfe","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 129,"Arzt - Klasse","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 129,"Gegner - Musik","TBR",0,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.527060801,0.433361416
@@ -2966,6 +3095,7 @@
 129,"Haus - System","TBR",0,0,22,"TBR","TBR","TBF","TBR",1.5,"TBR2","word022",0.359620716,0.233469136
 129,"Zeichen - Sache","TBF",0,0,23,"TBR","TBR","TBR","TBF",2.5,"TBR3","word023",0.051017708,0.008244017
 129,"Höhe - Kapital","TBF",0,0,24,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word024",0.274562721,0.148882728
+130,"Seele - Presse","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 130,"Zukunft - Hilfe","TBR",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 130,"Soldat - Bericht","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 130,"Recht - Frage","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -2989,6 +3119,7 @@
 130,"Wasser - Brief","TBF",0,0,22,"TBR","TBR","TBF","TBF",1.5,"TBR2","word022",0.103248937,0.028000862
 130,"Kirche - Zimmer","TBR",0,0,23,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word023",0.498677898,0.397023219
 130,"Beziehung - Wunsch","TBF",0,0,24,"TBR","TBF","TBR","TBR",0.5,"TBR1","word024",0.157768896,0.058081804
+131,"Zukunft - Hilfe","TBR",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 131,"Wasser - Brief","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 131,"Höhe - Kapital","TBF",0,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.308678804,0.181154907
 131,"Gesicht - Verwaltung","TBR",0,0,4,"TBF","TBF","TBR",NA,-1.5,"TBF2","word004",0.527060801,0.433361416
@@ -3012,6 +3143,7 @@
 131,"Gegner - Musik","TBR",1,0.5,22,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word022",0.499354941,0.397880392
 131,"Zeit - Ventil","TBR",1,1,23,"TBR","TBF","TBR","TBF",0.5,"TBR1","word023",0.412672923,0.292634163
 131,"Liebe - Sprache","TBF",0,0,24,"TBR","TBR","TBF","TBR",1.5,"TBR2","word024",0.102692815,0.027740869
+132,"Arzt - Klasse","TBF",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 132,"Höhe - Kapital","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 132,"Kosten - Jahr","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 132,"Tochter - Dienst","TBF",1,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -3035,6 +3167,7 @@
 132,"Gegner - Musik","TBF",1,1,22,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word022",0.276334346,0.150500367
 132,"Rahmen - Abend","TBR",0,0,23,"TBF","TBF","TBR","TBR",-1.5,"TBF2","word023",0.498684419,0.397031472
 132,"Staat - Regierung","TBF",0,0,24,"TBR","TBF","TBF","TBR",0.5,"TBR1","word024",0.157762375,0.058077691
+133,"Seele - Presse","TBR",1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 133,"Zeit - Ventil","TBF",0,0,2,"TBR",NA,NA,NA,0.5,"TBR1","word002",0.310288047,0.182734074
 133,"Stimme - Tätigkeit","TBR",1,0,3,"TBF","TBR",NA,NA,-0.5,"TBF1","word003",0.528713345,0.43550145
 133,"Haus - System","TBR",1,1,4,"TBR","TBF","TBR",NA,0.5,"TBR1","word004",0.527060801,0.433361416
@@ -3058,6 +3191,7 @@
 133,"Kirche - Zimmer","TBR",0,0,22,"TBR","TBF","TBR","TBR",0.5,"TBR1","word022",0.4133239,0.293387134
 133,"Arzt - Klasse","TBF",0,0,23,"TBR","TBR","TBF","TBR",1.5,"TBR2","word023",0.10297417,0.02787228
 133,"Höhe - Kapital","TBR",0,0,24,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word024",0.498029204,0.3962024
+134,"Soldat - Bericht","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 134,"Zeit - Ventil","TBR",0,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 134,"Kosten - Jahr","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 134,"Recht - Frage","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -3081,6 +3215,7 @@
 134,"Gesicht - Verwaltung","TBR",0,0,22,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word022",0.499348937,0.397872788
 134,"Stimme - Tätigkeit","TBR",0,0,23,"TBR","TBF","TBR","TBR",0.5,"TBR1","word023",0.412670868,0.292631787
 134,"Zukunft - Hilfe","TBF",0,0,24,"TBR","TBR","TBF","TBR",1.5,"TBR2","word024",0.102690746,0.027739903
+135,"Seele - Presse","TBF",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 135,"Wasser - Brief","TBF",1,0,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.310288047,0.182734074
 135,"Himmel - Kraft","TBR",1,0,3,"TBF","TBF",NA,NA,-1.5,"TBF2","word003",0.528713345,0.43550145
 135,"Haus - System","TBF",0,0,4,"TBR","TBF","TBF",NA,0.5,"TBR1","word004",0.307218091,0.17972582
@@ -3104,6 +3239,7 @@
 135,"Gesicht - Verwaltung","TBF",0,0,22,"TBR","TBR","TBF","TBR",1.5,"TBR2","word022",0.103254372,0.028003408
 135,"Rahmen - Abend","TBR",1,0,23,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word023",0.498677713,0.397022985
 135,"Staat - Regierung","TBR",0,0,24,"TBR","TBF","TBR","TBR",0.5,"TBR1","word024",0.412041241,0.291904104
+136,"Zukunft - Hilfe","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 136,"Beziehung - Wunsch","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 136,"Wasser - Brief","TBF",0,0.5,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 136,"Gegner - Musik","TBF",0,0,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
@@ -3127,6 +3263,7 @@
 136,"Kosten - Jahr","TBR",0,0,22,"TBR","TBF","TBF","TBR",0.5,"TBR1","word022",0.413310013,0.293371065
 136,"Spiegel - Fenster","TBF",0,0,23,"TBR","TBR","TBF","TBF",1.5,"TBR2","word023",0.102956027,0.027863798
 136,"Kirche - Zimmer","TBF",0,0,24,"TBF","TBR","TBR","TBF",-0.5,"TBF1","word024",0.275231131,0.149492272
+137,"Partei - Herz","TBF",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 137,"Liebe - Sprache","TBR",1,1,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 137,"Recht - Frage","TBR",1,1,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.528713345,0.43550145
 137,"Spiegel - Fenster","TBF",0,0,4,"TBR","TBR","TBF",NA,1.5,"TBR2","word004",0.307218091,0.17972582
@@ -3150,6 +3287,7 @@
 137,"Stimme - Tätigkeit","TBR",0,0,22,"TBF","TBR","TBR","TBR",-0.5,"TBF1","word022",0.498918561,0.397327855
 137,"Tochter - Dienst","TBF",0,0,23,"TBR","TBF","TBR","TBR",0.5,"TBR1","word023",0.157941934,0.058190996
 137,"Seele - Presse","TBF",0,0,24,"TBF","TBR","TBF","TBR",-0.5,"TBF1","word024",0.275241179,0.149501442
+138,"Gesicht - Verwaltung","TBF",1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 138,"Zeit - Ventil","TBR",0,0.5,2,"TBF",NA,NA,NA,-0.5,"TBF1","word002",0.530529395,0.437856141
 138,"Arzt - Klasse","TBF",0,0,3,"TBR","TBF",NA,NA,0.5,"TBR1","word003",0.308678804,0.181154907
 138,"Haus - System","TBF",1,0.5,4,"TBF","TBR","TBF",NA,-0.5,"TBF1","word004",0.307218091,0.17972582
