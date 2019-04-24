@@ -213,9 +213,9 @@ ggsave('figures/exp2_results_fit.tiff', all_plots, width=6.75, height=8, units='
 # Download the .RData files and store them in the output folder
 #############################################################################
 
-load('output/exp2_cued_recall_regressions.RData')
-load('output/exp2_cued_recall_regressions_consec_value.RData')
-load('output/exp2_cued_recall_regressions_lag.RData')
+load('output/exp2_cued_recall_models_final.RData')
+load('output/exp2_cued_recall_models_consec_value_final.RData')
+load('output/exp2_cued_recall_models_lag_final.RData')
 
 # # run bayesian multilevel logistic regression of cued recall as a function of current and preceding cue type
 # ml0 <- brm(cued_recall_acc ~ 1 + (condition + cue_prioritem1||subject) + (1||stim1), 
@@ -234,7 +234,7 @@ load('output/exp2_cued_recall_regressions_lag.RData')
 # bf10 <- bayes_factor(ml1, ml0)
 # bf21 <- bayes_factor(ml2, ml1)
 # bf32 <- bayes_factor(ml3, ml2)
-# save(ml0, ml1, ml2, ml3, bf10, bf21, bf32, file='output/exp2_cued_recall_regressions.RData')
+# save(ml0, ml1, ml2, ml3, bf10, bf21, bf32, file='output/exp2_cued_recall_models_final.RData')
 # 
 # 
 # # run bayesian multilevel logistic regression of cued recall as a function of number of consecutive cue type
@@ -245,7 +245,7 @@ load('output/exp2_cued_recall_regressions_lag.RData')
 #              data=dat, family=bernoulli(), save_all_pars = TRUE, iter = 10000, cores = 3, chains = 3, 
 #              prior  = set_prior('student_t(3, 0, 2.5)', class = 'b'))
 # 
-# save(mla_0, mla_1, bfa_10, file='output/exp2_cued_recall_regressions_consec_value.RData')
+# save(mla_0, mla_1, bfa_10, file='output/exp2_cued_recall_models_consec_value_final.RData')
 # 
 # # run bayesian multilevel logistic regression of cued recall as a function of preceding cue type and lag
 # mlc_1 <- brm(cued_recall_acc ~ condition + cue_prioritem2 + cue_prioritem3 + cue_prioritem4 + (condition + cue_prioritem1||subject) + (1||stim1), 
@@ -273,7 +273,7 @@ load('output/exp2_cued_recall_regressions_lag.RData')
 # hypothesis(mlc_5, 'cue_prioritem2TBR < cue_prioritem3TBR')
 # hypothesis(mlc_5, 'cue_prioritem3TBR < cue_prioritem4TBR')
 # 
-# save(mlc_1, mlc_2, mlc_3, mlc_4, mlc_5, bfc_51, bfc_52, bfc_53, bfc_54, file='output/exp2_cued_recall_regressions_lag.RData')
+# save(mlc_1, mlc_2, mlc_3, mlc_4, mlc_5, bfc_51, bfc_52, bfc_53, bfc_54, file='output/exp2_cued_recall_models_lag_final.RData')
 
 #############################################################################
 # FREE RECALL ANALYSES
@@ -284,9 +284,9 @@ load('output/exp2_cued_recall_regressions_lag.RData')
 # Download the .RData files and store them in the output folder
 #############################################################################
 
-load('output/exp2_free_recall_regressions.RData')
-load('output/exp2_free_recall_regressions_consec_value.RData')
-load('output/exp2_free_recall_regressions_lag.RData')
+load('output/exp2_free_recall_models_final.RData')
+load('output/exp2_free_recall_models_consec_value_final.RData')
+load('output/exp2_free_recall_models_lag_final.RData')
 
 # # run bayesian multilevel logistic regression of free recall as a function of current and preceding cue type
 # fml0 <- brm(free_recall_acc ~ 1 + (condition + cue_prioritem1||subject) + (1||stim1), 
@@ -305,7 +305,7 @@ load('output/exp2_free_recall_regressions_lag.RData')
 # fbf10 <- bayes_factor(fml1, fml0)
 # fbf21 <- bayes_factor(fml2, fml1)
 # fbf32 <- bayes_factor(fml3, fml2)
-# save(fml0, fml1, fml2, fml3, fbf10, fbf21, fbf32, file='output/exp2_free_recall_regressions.RData')
+# save(fml0, fml1, fml2, fml3, fbf10, fbf21, fbf32, file='output/exp2_free_recall_models_final.RData')
 # 
 # 
 # # run bayesian multilevel logistic regression of free recall as a function of number of consecutive cue type
@@ -317,7 +317,7 @@ load('output/exp2_free_recall_regressions_lag.RData')
 #               prior = set_prior('student_t(3, 0, 2.5)', class = 'b'))
 # 
 # fbfa_10 <- bayes_factor(fmla_1, fmla_0)
-# save(fmla_0, fmla_1, fbfa_10, file='output/exp2_free_recall_regressions_consec_value.RData')
+# save(fmla_0, fmla_1, fbfa_10, file='output/exp2_free_recall_models_consec_value_final.RData')
 # 
 # # run bayesian multilevel logistic regression of free recall as a function of preceding cue type and lag
 # fmlc_1 <- brm(free_recall_acc ~ condition + cue_prioritem2 + cue_prioritem3 + cue_prioritem4 + (condition + cue_prioritem1||subject) + (1||stim1), 
@@ -346,7 +346,7 @@ load('output/exp2_free_recall_regressions_lag.RData')
 # hypothesis(fmlc_5, 'cue_prioritem2TBR < cue_prioritem3TBR')
 # hypothesis(fmlc_5, 'cue_prioritem3TBR < cue_prioritem4TBR')
 # 
-# save(fmlc_1, fmlc_2, fmlc_3, fmlc_4, fmlc_5, fbfc_51, fbfc_52, fbfc_53, fbfc_54, file='output/exp2_free_recall_regressions_lag.RData')
+# save(fmlc_1, fmlc_2, fmlc_3, fmlc_4, fmlc_5, fbfc_51, fbfc_52, fbfc_53, fbfc_54, file='output/exp2_free_recall_models_lag_final.RData')
 
 
 #############################################################################
@@ -497,7 +497,7 @@ ggsave('figures/marevic2018_exp2_subsequent.tiff', all_plots, width=6.75, height
 #                 prior = set_prior('student_t(3, 0, 2.5)', class = 'b'))
 # post_bf12 <- bayes_factor(post_ml1, post_ml2)
 # post_bf23 <- bayes_factor(post_ml2, post_ml3)
-# save(post_ml1, post_ml2, post_ml3, post_bf12, post_bf23, file='output/exp2_cued_recall_models_post.RData')
+# save(post_ml1, post_ml2, post_ml3, post_bf12, post_bf23, file='output/exp2_postcued_recall_models.RData')
 # 
 # 
 # 
@@ -518,4 +518,4 @@ ggsave('figures/marevic2018_exp2_subsequent.tiff', all_plots, width=6.75, height
 # 
 # post_fbf12 <- bayes_factor(post_fml1, post_fml2)
 # post_fbf23 <- bayes_factor(post_fml2, post_fml3)
-# save(post_fml1, post_fml2, post_fml3, post_fbf12, post_fbf23, file='output/exp2_free_recall_models_post.RData')
+# save(post_fml1, post_fml2, post_fml3, post_fbf12, post_fbf23, file='output/exp2_postfree_recall_models.RData')

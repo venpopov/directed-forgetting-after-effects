@@ -198,12 +198,12 @@ ggsave('figures/exp1_results_fit.tiff', all_plots, width=6.75, height=8, units='
 # these take a long time, so they can be loaded directly from the pre-saved 
 # RData objects that are stored on the OSF repository (https://osf.io/5qd94/files/) 
 # under the OSF Storage > analysis_output folder
-# Download the .RData files and store them in the output folder
+# Download the final..RData files and store them in the output folder
 #############################################################################
 
-load('output/exp1_cued_recall_regressions.RData')
-load('output/exp1_cued_recall_regressions_consec_value.RData')
-load('output/exp1_cued_recall_regressions_lag.RData')
+load('output/exp1_cued_recall_models_final.RData')
+load('output/exp1_cued_recall_models_consec_value_final.RData')
+load('output/exp1_cued_recall_models_lag_final.RData')
 
 ## run bayesian multilevel logistic regression of cued recall as a function of current and preceding cue type
 
@@ -267,7 +267,7 @@ load('output/exp1_cued_recall_regressions_lag.RData')
 #hypothesis(mlc_5, 'cue_prioritem2TBR < cue_prioritem3TBR')
 #hypothesis(mlc_5, 'cue_prioritem3TBR < cue_prioritem4TBR')
 
-# save(mlc_1, mlc_2, mlc_3, mlc_4, mlc_5, bfc_51, bfc_52, bfc_53, bfc_54, file='output/exp1_cued_recall_regressions_lag.RData')
+# save(mlc_1, mlc_2, mlc_3, mlc_4, mlc_5, bfc_51, bfc_52, bfc_53, bfc_54, file='output/exp1_cued_recall_models_lag_final.RData')
 
 
 #############################################################################
@@ -279,9 +279,9 @@ load('output/exp1_cued_recall_regressions_lag.RData')
 # Download the .RData files and store them in the output folder
 #############################################################################
 
-load('output/exp1_free_recall_regressions.RData')
-load('output/exp1_free_recall_regressions_consec_value.RData')
-load('output/exp1_free_recall_regressions_lag.RData')
+load('output/exp1_free_recall_models_final.RData')
+load('output/exp1_free_recall_models_consec_value_final.RData')
+load('output/exp1_free_recall_models_lag_final_final.RData')
 
 # fdat <- dat %>% mutate(free_recall_acc = round(free_recall_acc))  # count as correct only if both words in a pair are recalled
 # 
