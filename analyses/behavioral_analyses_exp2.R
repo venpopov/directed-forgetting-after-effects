@@ -212,6 +212,19 @@ ggsave('figures/exp2_results_fit.tiff', all_plots, width=6.75, height=8, units='
 # RData objects that are stored on the OSF repository (https://osf.io/5qd94/files/)
 # under the OSF Storage > analysis_output folder
 # Download the .RData files and store them in the output folder
+
+# NOTE ON THE CHOICE OF RANDOM EFFECTS:
+
+# Since the Bayesian models run by brms take a long time, we initially ran the
+# equivalent frequentist hierarchical models using lme4. This is a common
+# approach, since the results from the two methods typically converge on the
+# same conclusions, and lme4 tends to be many times faster than brms. Within
+# lme4, the random effects were determined through restricted likelihood ratio
+# tests (Bates et al, 2015). The removal of the correlations among random
+# effects improved the model convergence within lme4, which failed to converge
+# otherwise. After determining the maximal random effect structure that could be
+# supported by the data within lme4 (Bates et al, 2015), we reran the models
+# within brms focusing on tests for the fixed effects of interest.
 #############################################################################
 
 load('output/exp2_cued_recall_models_final.RData')
