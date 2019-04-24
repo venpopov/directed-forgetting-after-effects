@@ -67,6 +67,7 @@ fdat <- dat %>% mutate(free_recall_acc = round(free_recall_acc))
 # -------------------------------------------------------------------
 
 fit <- dat %>% 
+  filter(!is.na(cue_consec_lab)) %>% 
   group_by(cue_consec_lab) %>% 
   summarise(cued_recall_acc=mean(cued_recall_acc), 
             cued_recall_acc_pred=mean(cued_recall_acc_pred, na.rm=T), 

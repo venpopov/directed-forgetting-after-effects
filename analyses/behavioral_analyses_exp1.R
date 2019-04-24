@@ -39,7 +39,7 @@ dat <- raw %>%
 # load sac model fit
 sac_fit <- read.csv('output/exp1_sac_model_fit.csv')
 names(sac_fit)[grepl('type', names(sac_fit))] <- gsub('_type_','',names(sac_fit)[grepl('type', names(sac_fit))])
-sac_fit <- select(sac_fit, subject, stim1, trial, cued_recall_acc_pred, free_recall_acc_pred)
+sac_fit <- select(sac_fit, subject, trial, cued_recall_acc_pred, free_recall_acc_pred)
 sac_fit$trial <- sac_fit$trial-48
 
 dat <- left_join(dat, sac_fit)
@@ -52,6 +52,7 @@ dat <- left_join(dat, sac_fit)
 # -------------------------------------------------------------------
 
 fit <- dat %>% 
+  filter(!is.na(cue_consec_lab)) %>% 
   group_by(cue_consec_lab, cue) %>% 
   summarise(cued_recall_acc=mean(cued_recall_acc), 
             cued_recall_acc_pred=mean(cued_recall_acc_pred), 
